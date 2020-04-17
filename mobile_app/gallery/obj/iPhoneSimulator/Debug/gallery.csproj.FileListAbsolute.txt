@@ -1,0 +1,15 @@
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/bin/iPhoneSimulator/Debug/gallery.exe
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/bin/iPhoneSimulator/Debug/gallery.pdb
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/gallery.csproj.CoreCompileInputs.cache
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/gallery.csproj.CopyComplete
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/gallery.exe
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/iPhoneSimulator/Debug/gallery.pdb

@@ -1,6 +1,7 @@
 ﻿using Foundation;
 using System;
 using UIKit;
+using Photos;
 
 namespace gallery
 {
@@ -16,8 +17,26 @@ namespace gallery
         {
             base.ViewDidLoad();
 
+            if (PHPhotoLibrary.AuthorizationStatus == PHAuthorizationStatus.NotDetermined)
+            {
+                PHPhotoLibrary.RequestAuthorization((PHAuthorizationStatus newStatus) =>
+                { });
+            }
+
             photoDataSource = new PhotoCollectionDataSource();
             collectionView.DataSource = photoDataSource;
+
+         
+            PHPhotoLibrary.SharedPhotoLibrary.RegisterChangeObserver((changeObserver) =>
+            {
+               
+                InvokeOnMainThread(() =>
+                {
+                   
+                    photoDataSource.ReloadPhotos();
+                    collectionView.ReloadData();
+                });
+            });
         }
 
         public override void DidReceiveMemoryWarning()

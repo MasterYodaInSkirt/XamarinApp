@@ -1,0 +1,9 @@
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/bin/Debug/gallery.UITests.dll
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/bin/Debug/gallery.UITests.pdb
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/bin/Debug/nunit.framework.dll
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/bin/Debug/nunit.framework.pdb
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/obj/Debug/gallery.UITests.csproj.CoreCompileInputs.cache
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/obj/Debug/gallery.UITests.csproj.CopyComplete
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/obj/Debug/gallery.UITests.dll
+/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/obj/Debug/gallery.UITests.pdb
