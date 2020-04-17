@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/gallery.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/gallery.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/gallery.UITests.csproj",
+        "projectName": "gallery.UITests",
+        "projectPath": "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/gallery.UITests.csproj",
+        "packagesPath": "/Users/marijana.markov/.nuget/packages/",
+        "outputPath": "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/marijana.markov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

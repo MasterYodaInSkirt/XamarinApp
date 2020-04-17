@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/gallery.csproj": {}
+  },
+  "projects": {
+    "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/gallery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/gallery.csproj",
+        "projectName": "gallery",
+        "projectPath": "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/gallery.csproj",
+        "packagesPath": "/Users/marijana.markov/.nuget/packages/",
+        "outputPath": "/Users/marijana.markov/Projects/Xamarin/mobile_app/gallery/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/marijana.markov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.TestCloud.Agent": {
+              "target": "Package",
+              "version": "[0.21.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
