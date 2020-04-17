@@ -6,6 +6,8 @@ namespace gallery
 {
     public partial class ViewController : UIViewController
     {
+        private PhotoCollectionDataSource photoDataSource;
+
         public ViewController(IntPtr handle) : base(handle)
         {
         }
@@ -13,7 +15,9 @@ namespace gallery
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
-            // Perform any additional setup after loading the view, typically from a nib.
+
+            photoDataSource = new PhotoCollectionDataSource();
+            collectionView.DataSource = photoDataSource;
         }
 
         public override void DidReceiveMemoryWarning()

@@ -11,8 +11,19 @@ using UIKit;
 
 namespace gallery
 {
-    [Register("ViewController")]
+    [Register ("ViewController")]
     partial class ViewController
     {
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UICollectionView collectionView { get; set; }
+
+        void ReleaseDesignerOutlets ()
+        {
+            if (collectionView != null) {
+                collectionView.Dispose ();
+                collectionView = null;
+            }
+        }
     }
 }
